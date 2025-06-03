@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>IT Company Website</title>
+    <title>Broussard Innovations, LLC</title>
     <link rel="stylesheet" href="./css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
@@ -38,8 +38,8 @@
     </header>
 
   <section id="home" class="home">
-      <h1>Land on your new job</h1>
-      <h2>with Real Human Supporters</h2>
+      <h1>Broussard Innovations</h1>
+      <h2>Powering Construction with Technology</h2>
     <div class="wave wave1"></div>
     <div class="wave wave2"></div>
     <div class="wave wave3"></div>
@@ -49,10 +49,10 @@
     <h1 class="heading">about us</h1>
     <div class="row">
         <div class="content">
-            <h3>We apply for jobs, you focus on your career and interviews</h3>
+            <h3>We do Technology and Construction</h3>
             <p>
-                Our mission is to simplify the job search process for people by providing efficient and effective application services powered by <b>real people.</b><br>
-                We envision a world where every <b>job seeker</b> finds their dream job with ease and confidence.
+                Broussard Innovations is a consulting firm that supports the construction industry — both on the ground and behind the screen.<br />
+                We provide expert guidance on construction projects, and we build digital tools that simplify everything from field reporting to project tracking.
             </p>
             <a href="#"><button class="btn">Read More</button></a>
         </div>
@@ -64,25 +64,25 @@
       <div class="row">
         <div class="section-head col-sm-12" id="service">
           <h1>Why US?</h1>
-          <p>We save your time! And more interviews!
+          <p>We’ve walked the job sites
             </p>
         </div>
         <div class="col-lg-4 col-sm-6">
           <div class="item"> <span class="icon feature_box_col_one"><i class="fa fa-laptop"></i></span>
-            <h6>Personalized Job Applications</h6>
-            <p>Each application is carefully crafted and sent by our experienced team members, ensuring a personal touch.            </p>
+            <h6>Practical Software Design</h6>
+            <p>Built for field teams, not just engineers</p>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6">
           <div class="item"> <span class="icon feature_box_col_two"><i class="fa fa-android"></i></span>
-            <h6>ATS-Optimized Resumes</h6>
-            <p>We tailor your resume to pass Applicant Tracking Systems, ensuring it reaches hiring managers.</p>
+            <h6>Stronger Communication</h6>
+            <p>We connect field and office workflows</p>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6">
           <div class="item"> <span class="icon feature_box_col_three"><i class="fa fa-magic"></i></span>
-            <h6>Experienced Team</h6>
-            <p>Our team of experts has a proven track record in job application success.</p>
+            <h6>End-to-End Support</h6>
+            <p>From blueprint to deployment</p>
           </div>
         </div>
       </div>
@@ -117,54 +117,6 @@
     </div>
 </section>
 
-<div class="pt-5 pb-5">
-    <div class="container">
-      <div class="row">
-        <div class="section-head-1 col-sm-12" style="text-align: center;">
-          <h4 style="margin-top: -5rem;" id="portfolio"><span>Our</span> Plans</h4>
-        </div>
-        
-        <div class="col-lg-4 col-sm-6">
-          <div class="item"> <span class="icon feature_box_col_four">Essential</span>
-
-            <p>
-                $200/month<br>
-                Send 50 applications/day
-                <br><br>
-                <br>
-                <br>
-            </p>
-          </div>
-        </div>
-        
-        <div class="col-lg-4 col-sm-6">
-          <div class="item"> <span class="icon feature_box_col_five">Pro</span>
-            <p>$300/month<br>
-                Send 60 applications/day<br>
-                Email Checking</p>
-                <br>
-                <br>
-                <br>
-          </div>
-        </div>
-        <div class="col-lg-4 col-sm-6">
-          <div class="item"> <span class="icon feature_box_col_six">Elite</span>
-            <p>$400/month<br>
-                Send 70 applications/day<br>
-                Email Checking<br>
-                Interview scheduling<br>
-                Resume consultant</p>
-          </div>
-        </div>
-      </div>
-    </div>
-</div>
-
-<div class="communicate">
-    <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h3>
-    <p>Lorem ipsum dolor sit amet.</p>
-    <a href="#contact"><button class="btn">Contact Now</button></a>
-</div>
 
 <div class="testimonials mt-100">
     <div class="container">
@@ -181,11 +133,7 @@
                     <img src="./images/testimonial-1.jpg" alt="Testimonial image">
                 </div>
                 <div class="testimonial-text">
-                    <h3>Ricky Payne</h3>
-                    <h4>Software Engineering Manager</h4>
-                    <p>
-                        Microsoft
-                    </p>
+                    <h4>Poolcorp</h4>
                 </div>
             </div>
             <div class="testimonial-item row align-items-center">
@@ -193,12 +141,7 @@
                     <img src="./images/testimonial-2.jpg" alt="Testimonial image">
                 </div>
                 <div class="testimonial-text">
-                    <h3>Rhett Johnson</h3>
-                    <h4>Senior Software Engineer </h4>
-                    <p>
-                        Amazon
-
-                    </p>
+                    <h4>OpenArc</h4>
                 </div>
             </div>
             <div class="testimonial-item row align-items-center">
@@ -206,36 +149,7 @@
                     <img src="./images/testimonial-3.jpg" alt="Testimonial image">
                 </div>
                 <div class="testimonial-text">
-                    <h3>Benjamin Brittain</h3>
-                    <h4>Staff Software Engineer</h4>
-                    <p>
-                        California Credit Union
-                    </p>
-                </div>
-            </div>
-            <div class="testimonial-item row align-items-center">
-                <div class="testimonial-img">
-                    <img src="./images/testimonial-4.jpg" alt="Testimonial image">
-                </div>
-                <div class="testimonial-text">
-                    <h3>Tiffany Dillon</h3>
-                    <h4>Business analyist</h4>
-                    <p>
-                        Dropbox
-                    </p>
-                </div>
-            </div>
-            <div class="testimonial-item row align-items-center">
-                <div class="testimonial-img">
-                    <img src="./images/testimonial-5.jpg" alt="Testimonial image">
-                </div>
-                <div class="testimonial-text">
-                    <h3>Emily Gee</h3>
-                    <h4>Senior QA Tester</h4>
-                    <p>
-                        Scramsystesm
-
-                    </p>
+                    <h4>ManageAmerica</h4>
                 </div>
             </div>
         </div>
@@ -281,7 +195,7 @@
               <img src="./images/ben-kris-ceo.jpg" alt="Team member 1">
           </div>
           <div class="info">
-              <h3>Ben Kris</h3>
+              <h3>Jay Broussard</h3>
               <span>CEO</span>
               <div class="icons">
                   <a href="https://www.facebook.com/" class="fab fa-facebook-f"></a>
@@ -298,7 +212,7 @@
               <img src="./images/james-sullivan.png" alt="Team member 1">
           </div>
           <div class="info">
-              <h3>James Sullivan</h3>
+              <h3>Shane Lewis</h3>
               <span>CTO</span>
               <div class="icons">
                   <a href="https://www.facebook.com/" class="fab fa-facebook-f"></a>
@@ -315,8 +229,8 @@
               <img src="./images/pexels-hussein-altameemi-2776353.jpg" alt="Team member 1">
           </div>
           <div class="info">
-              <h3>John Doe</h3>
-              <span>Graphic Designer</span>
+              <h3>Rhett Johnson</h3>
+              <span>Marketing Engineer</span>
               <div class="icons">
                   <a href="https://www.facebook.com/" class="fab fa-facebook-f"></a>
                   <a href="https://twitter.com/login" class="fab fa-twitter"></a>
@@ -456,8 +370,8 @@
                           1300  Center Avenue<br>
                           Fresno, California<br>
                           United States <br>
-                          <strong>Phone:</strong> +123-456-7890<br>
-                          <strong>Email:</strong> info@example.com<br>
+                          <strong>Phone:</strong> +1 (626) 790-1740<br>
+                          <strong>Email:</strong> jaybroussardjet@gmail.com<br>
                       </p>
 
                       <div class="social-links">
@@ -485,7 +399,7 @@
       <div class="container">
           <div class="row align-items-center">
               <div class="col-md-6 copyright" style="color: #fff; font-size: 1.3rem;">
-                  Copyright &copy; 2025 Human Submit. All Rights Reserved.
+                  Copyright &copy; 2025 Broussard Innovations. All Rights Reserved.
               </div>
           </div>
       </div>
